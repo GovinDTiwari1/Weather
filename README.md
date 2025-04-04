@@ -1,7 +1,7 @@
 # 🌤 Weather App
 
 🌎 Live Demo
-🔗 https://govindtiwari1.github.io/Weather/
+🔗 [Weather](https://govindtiwari1.github.io/Weather/)
 
 ## 📌 Project Description
 This is a simple **Weather App** that provides real-time weather updates for different locations. The app fetches weather data using an API and displays information such as **temperature, humidity, and weather conditions**.
