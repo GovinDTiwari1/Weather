@@ -18,7 +18,7 @@ This is a simple **Weather App** that provides real-time weather updates for dif
 - JavaScript
 - Weather API (e.g., OpenWeatherMap)
 
-## 📂 File Structure
+## 
 
 📞 Contact
 For any queries, reach out to me:
